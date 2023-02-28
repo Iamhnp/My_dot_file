@@ -1,0 +1,17 @@
+2023-02-04 17:03:24.306 [info] [perf] Render performance baseline is 38ms
+2023-02-04 17:03:31.356 [error] Error while registering log channel file:///home/hnp/.config/VSCodium/logs/20230204T170319/userDataSync.log Timed out while waiting for file to be created
+2023-02-04 17:03:44.673 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '//proc/1721/task/1894/attr/apparmor' failed: No such file or directory (EUNKNOWN) (path: /)
+2023-02-04 17:03:44.674 [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '//proc/1721/task/1894/attr/apparmor' failed: No such file or directory
+2023-02-04 17:03:53.905 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '//proc/1750/task/1769/attr/smack' failed: No such file or directory (EUNKNOWN) (path: /)
+2023-02-04 17:03:53.908 [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '//proc/1750/task/1769/attr/smack' failed: No such file or directory
+2023-02-04 17:03:58.453 [error] [File Watcher (parcel)] Unexpected error: No such file or directory (EUNKNOWN) (path: /)
+2023-02-04 17:03:58.458 [error] [File Watcher (universal)] restarting watcher after error: No such file or directory
+2023-02-04 17:04:23.339 [error] RequestService#request (browser) - error https://open-vsx.org/vscode/gallery/extensionquery {"name":"Canceled"}
+2023-02-04 17:04:27.747 [error] RequestService#request (browser) - error https://open-vsx.org/vscode/gallery/extensionquery {"name":"Canceled"}
+2023-02-04 17:04:50.038 [error] [File Watcher (parcel)] Unexpected error: basic_string::_M_create (EUNKNOWN) (path: /)
+2023-02-04 17:04:50.041 [error] [File Watcher (universal)] restarting watcher after error: basic_string::_M_create
+2023-02-04 17:04:59.866 [error] [File Watcher (parcel)] Unexpected error: No such file or directory (EUNKNOWN) (path: /)
+2023-02-04 17:04:59.915 [error] [File Watcher (universal)] restarting watcher after error: No such file or directory
+2023-02-04 17:05:06.312 [error] [File Watcher (parcel)] Unexpected error: No such file or directory (EUNKNOWN) (path: /)
+2023-02-04 17:05:06.317 [error] [File Watcher (universal)] gave up attempting to restart watcher after error: No such file or directory
+2023-02-04 17:05:13.414 [info] Not activating extension 'ms-python.isort': Timed out while searching for 'workspaceContains' pattern *.py

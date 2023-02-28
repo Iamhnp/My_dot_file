@@ -1,0 +1,8 @@
+2023-02-28 10:58:36.988 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/hnp/remove","scheme":"file"},"type":1,"exists":false}],"filesToDiff":[],"filesToMerge":[]}
+2023-02-28 10:58:40.463 [info] [perf] Render performance baseline is 44ms
+2023-02-28 10:58:47.495 [error] Error while registering log channel file:///home/hnp/.config/VSCodium/logs/20230228T105835/userDataSync.log Timed out while waiting for file to be created
+2023-02-28 10:59:06.738 [warning] [backup tracker] suspended, ignoring register event file:///home/hnp/remove 
+2023-02-28 10:59:06.752 [warning] [backup tracker] suspended, ignoring dirty change event untitled:/home/hnp/remove 
+2023-02-28 10:59:06.770 [warning] [backup tracker] suspended, ignoring unregister event untitled:/home/hnp/remove 
+2023-02-28 10:59:11.156 [info] [perf] Render performance baseline is 56ms
+2023-02-28 10:59:18.120 [error] Error while registering log channel file:///home/hnp/.config/VSCodium/logs/20230228T105835/userDataSync.log Timed out while waiting for file to be created

@@ -1,0 +1,4 @@
+2023-02-04 18:01:21.757 [info] [perf] Render performance baseline is 70ms
+2023-02-04 18:01:28.332 [error] Error while registering log channel file:///home/hnp/.config/VSCodium/logs/20230204T180115/userDataSync.log Timed out while waiting for file to be created
+2023-02-04 18:01:41.669 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '//proc/4481/task/4529/attr/smack' failed: No such file or directory (EUNKNOWN) (path: /)
+2023-02-04 18:01:41.671 [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '//proc/4481/task/4529/attr/smack' failed: No such file or directory

@@ -1,0 +1,7 @@
+2023-02-28 10:44:46.499 [info] update#setState idle
+2023-02-28 10:44:48.110 [info] Starting extension host with pid 3441 (fork() took 14 ms).
+2023-02-28 10:45:16.501 [info] update#setState checking for updates
+2023-02-28 10:45:16.975 [info] update#setState available for download
+2023-02-28 10:45:19.530 [info] update#setState idle
+2023-02-28 10:49:26.732 [info] Waiting for extension host with pid 3441 to exit.
+2023-02-28 10:49:26.745 [info] Extension host with pid 3441 exited with code: 0, signal: null.

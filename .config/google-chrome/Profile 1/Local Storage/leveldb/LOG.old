@@ -1,0 +1,15 @@
+2023/02/18-11:24:33.233 3 Reusing MANIFEST /home/hnp/.config/google-chrome/Profile 1/Local Storage/leveldb/MANIFEST-000001
+2023/02/18-11:24:33.235 3 Recovering log #15
+2023/02/18-11:24:33.238 3 Reusing old log /home/hnp/.config/google-chrome/Profile 1/Local Storage/leveldb/000015.log 
+2023/02/18-11:24:46.365 3 Level-0 table #19: started
+2023/02/18-11:24:46.370 3 Level-0 table #19: 18700 bytes OK
+2023/02/18-11:24:46.377 3 Delete type=0 #15
+2023/02/18-11:24:46.378 3 Compacting 4@0 + 1@1 files
+2023/02/18-11:24:46.417 3 Generated table #20@0: 148 keys, 535681 bytes
+2023/02/18-11:24:46.417 3 Compacted 4@0 + 1@1 files => 535681 bytes
+2023/02/18-11:24:46.425 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/02/18-11:24:46.427 3 Delete type=2 #8
+2023/02/18-11:24:46.428 3 Delete type=2 #10
+2023/02/18-11:24:46.428 3 Delete type=2 #13
+2023/02/18-11:24:46.428 3 Delete type=2 #16
+2023/02/18-11:24:46.428 3 Delete type=2 #19

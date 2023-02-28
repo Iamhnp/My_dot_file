@@ -1,0 +1,58 @@
+2023-02-04 17:03:22.268 [info] Starting worker process with pid 1861 (type: fileWatcher, window: 1).
+2023-02-04 17:03:43.585 [info] Getting Manifest... ms-python.python
+2023-02-04 17:03:44.676 [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-02-04 17:03:44.677 [info] Worker process with pid 1861 terminated normally (type: fileWatcher, window: 1).
+2023-02-04 17:03:44.689 [info] Starting worker process with pid 1944 (type: fileWatcher, window: 1).
+2023-02-04 17:03:46.355 [info] Installing extension: ms-python.python
+2023-02-04 17:03:47.997 [info] Getting Manifest... ms-toolsai.jupyter
+2023-02-04 17:03:50.312 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2023-02-04 17:03:51.492 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2023-02-04 17:03:52.618 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2023-02-04 17:03:53.732 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2023-02-04 17:03:53.909 [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-02-04 17:03:53.912 [info] Worker process with pid 1944 terminated normally (type: fileWatcher, window: 1).
+2023-02-04 17:03:53.922 [info] Starting worker process with pid 1966 (type: fileWatcher, window: 1).
+2023-02-04 17:03:54.852 [info] Getting Manifest... ms-python.isort
+2023-02-04 17:03:56.253 [info] Installing extension: ms-toolsai.jupyter ms-python.python
+2023-02-04 17:03:56.253 [info] Installing extension: ms-toolsai.jupyter-renderers ms-python.python
+2023-02-04 17:03:56.254 [info] Installing extension: ms-toolsai.jupyter-keymap ms-python.python
+2023-02-04 17:03:56.254 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags ms-python.python
+2023-02-04 17:03:56.254 [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow ms-python.python
+2023-02-04 17:03:56.254 [info] Installing extension: ms-python.isort ms-python.python
+2023-02-04 17:03:58.459 [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-02-04 17:03:58.461 [info] Worker process with pid 1966 terminated normally (type: fileWatcher, window: 1).
+2023-02-04 17:03:58.469 [info] Starting worker process with pid 1989 (type: fileWatcher, window: 1).
+2023-02-04 17:03:59.914 [info] Extracted extension to /home/hnp/.vscode-oss/extensions/.ef8ca5cc-1363-4460-bd3e-73851459b735: ms-toolsai.jupyter-keymap
+2023-02-04 17:03:59.932 [info] Renamed to /home/hnp/.vscode-oss/extensions/ms-toolsai.jupyter-keymap-1.0.0-universal
+2023-02-04 17:03:59.933 [info] Extracting completed. ms-toolsai.jupyter-keymap
+2023-02-04 17:04:01.520 [info] Extracted extension to /home/hnp/.vscode-oss/extensions/.5b3657be-8714-4317-b241-7205ce282651: ms-toolsai.vscode-jupyter-slideshow
+2023-02-04 17:04:01.527 [info] Renamed to /home/hnp/.vscode-oss/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5-universal
+2023-02-04 17:04:01.534 [info] Extracting completed. ms-toolsai.vscode-jupyter-slideshow
+2023-02-04 17:04:01.553 [info] Extracted extension to /home/hnp/.vscode-oss/extensions/.7516144a-d6ce-4a99-97c8-710bf20dc172: ms-toolsai.vscode-jupyter-cell-tags
+2023-02-04 17:04:01.558 [info] Renamed to /home/hnp/.vscode-oss/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.6-universal
+2023-02-04 17:04:01.560 [info] Extracting completed. ms-toolsai.vscode-jupyter-cell-tags
+2023-02-04 17:04:03.275 [info] Extracted extension to /home/hnp/.vscode-oss/extensions/.5deb409c-79c4-406c-bfc1-b31be0943d89: ms-toolsai.jupyter-renderers
+2023-02-04 17:04:03.282 [info] Renamed to /home/hnp/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.0.12-universal
+2023-02-04 17:04:03.284 [info] Extracting completed. ms-toolsai.jupyter-renderers
+2023-02-04 17:04:05.063 [info] Extracted extension to /home/hnp/.vscode-oss/extensions/.a03ccec5-0fd7-4f50-9776-1707d23464d7: ms-toolsai.jupyter
+2023-02-04 17:04:05.075 [info] Renamed to /home/hnp/.vscode-oss/extensions/ms-toolsai.jupyter-2022.10.110-universal
+2023-02-04 17:04:05.100 [info] Extracting completed. ms-toolsai.jupyter
+2023-02-04 17:04:50.046 [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-02-04 17:04:50.047 [info] Worker process with pid 1989 terminated normally (type: fileWatcher, window: 1).
+2023-02-04 17:04:50.055 [info] Starting worker process with pid 2414 (type: fileWatcher, window: 1).
+2023-02-04 17:04:59.932 [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-02-04 17:04:59.932 [info] Worker process with pid 2414 terminated normally (type: fileWatcher, window: 1).
+2023-02-04 17:04:59.944 [info] Starting worker process with pid 2613 (type: fileWatcher, window: 1).
+2023-02-04 17:05:01.755 [info] Extracted extension to /home/hnp/.vscode-oss/extensions/.1bf8f177-9621-4f6b-bca6-7d113daffb87: ms-python.python
+2023-02-04 17:05:01.807 [info] Renamed to /home/hnp/.vscode-oss/extensions/ms-python.python-2022.20.2-universal
+2023-02-04 17:05:01.814 [info] Extracting completed. ms-python.python
+2023-02-04 17:05:05.821 [info] Extracted extension to /home/hnp/.vscode-oss/extensions/.58ab7593-52d5-440f-a0cd-466d90596865: ms-python.isort
+2023-02-04 17:05:05.835 [info] Renamed to /home/hnp/.vscode-oss/extensions/ms-python.isort-2022.8.0-universal
+2023-02-04 17:05:05.839 [info] Extracting completed. ms-python.isort
+2023-02-04 17:05:05.865 [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+2023-02-04 17:05:05.865 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow
+2023-02-04 17:05:05.865 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags
+2023-02-04 17:05:05.865 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2023-02-04 17:05:05.865 [info] Extension installed successfully: ms-toolsai.jupyter
+2023-02-04 17:05:05.865 [info] Extension installed successfully: ms-python.python
+2023-02-04 17:05:05.866 [info] Extension installed successfully: ms-python.isort

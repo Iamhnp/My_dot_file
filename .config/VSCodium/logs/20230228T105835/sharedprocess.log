@@ -1,0 +1,28 @@
+2023-02-28 10:58:38.428 [info] Starting worker process with pid 7468 (type: fileWatcher, window: 1).
+2023-02-28 10:59:06.946 [info] Worker process with pid 7468 terminated normally (type: fileWatcher, window: 1).
+2023-02-28 10:59:08.135 [info] Starting worker process with pid 7556 (type: fileWatcher, window: 1).
+2023-02-28 11:06:05.358 [info] Uninstalling extension from the profile: ms-python.isort@2022.8.0 vscode-userdata:/home/hnp/.vscode-oss/extensions/extensions.json
+2023-02-28 11:06:05.423 [info] Marked extension as uninstalled ms-python.isort-2022.8.0-universal
+2023-02-28 11:06:07.083 [info] Successfully uninstalled extension from the profile ms-python.isort@2022.8.0 vscode-userdata:/home/hnp/.vscode-oss/extensions/extensions.json
+2023-02-28 11:06:10.090 [info] Uninstalling extension from the profile: ms-python.python@2022.20.2 vscode-userdata:/home/hnp/.vscode-oss/extensions/extensions.json
+2023-02-28 11:06:10.133 [info] Uninstalling extension from the profile: ms-toolsai.jupyter@2022.10.110 vscode-userdata:/home/hnp/.vscode-oss/extensions/extensions.json
+2023-02-28 11:06:10.134 [info] Uninstalling extension from the profile: ms-toolsai.jupyter-keymap@1.0.0 vscode-userdata:/home/hnp/.vscode-oss/extensions/extensions.json
+2023-02-28 11:06:10.134 [info] Uninstalling extension from the profile: ms-toolsai.jupyter-renderers@1.0.12 vscode-userdata:/home/hnp/.vscode-oss/extensions/extensions.json
+2023-02-28 11:06:10.134 [info] Uninstalling extension from the profile: ms-toolsai.vscode-jupyter-cell-tags@0.1.6 vscode-userdata:/home/hnp/.vscode-oss/extensions/extensions.json
+2023-02-28 11:06:10.134 [info] Uninstalling extension from the profile: ms-toolsai.vscode-jupyter-slideshow@0.1.5 vscode-userdata:/home/hnp/.vscode-oss/extensions/extensions.json
+2023-02-28 11:06:10.186 [info] Marked extension as uninstalled ms-python.python-2022.20.2-universal
+2023-02-28 11:06:10.186 [info] Marked extension as uninstalled ms-toolsai.jupyter-2022.10.110-universal
+2023-02-28 11:06:10.220 [info] Marked extension as uninstalled ms-toolsai.jupyter-keymap-1.0.0-universal
+2023-02-28 11:06:10.220 [info] Marked extension as uninstalled ms-toolsai.jupyter-renderers-1.0.12-universal
+2023-02-28 11:06:10.220 [info] Marked extension as uninstalled ms-toolsai.vscode-jupyter-cell-tags-0.1.6-universal
+2023-02-28 11:06:10.240 [info] Marked extension as uninstalled ms-toolsai.jupyter-keymap-1.0.0-universal
+2023-02-28 11:06:10.240 [info] Marked extension as uninstalled ms-toolsai.jupyter-renderers-1.0.12-universal
+2023-02-28 11:06:10.240 [info] Marked extension as uninstalled ms-toolsai.vscode-jupyter-cell-tags-0.1.6-universal
+2023-02-28 11:06:10.240 [info] Marked extension as uninstalled ms-toolsai.vscode-jupyter-slideshow-0.1.5-universal
+2023-02-28 11:06:10.251 [info] Marked extension as uninstalled ms-toolsai.vscode-jupyter-slideshow-0.1.5-universal
+2023-02-28 11:06:11.107 [info] Successfully uninstalled extension from the profile ms-python.python@2022.20.2 vscode-userdata:/home/hnp/.vscode-oss/extensions/extensions.json
+2023-02-28 11:06:11.111 [info] Successfully uninstalled extension from the profile ms-toolsai.jupyter@2022.10.110 vscode-userdata:/home/hnp/.vscode-oss/extensions/extensions.json
+2023-02-28 11:06:11.389 [info] Successfully uninstalled extension from the profile ms-toolsai.vscode-jupyter-slideshow@0.1.5 vscode-userdata:/home/hnp/.vscode-oss/extensions/extensions.json
+2023-02-28 11:06:11.392 [info] Successfully uninstalled extension from the profile ms-toolsai.jupyter-renderers@1.0.12 vscode-userdata:/home/hnp/.vscode-oss/extensions/extensions.json
+2023-02-28 11:06:11.393 [info] Successfully uninstalled extension from the profile ms-toolsai.vscode-jupyter-cell-tags@0.1.6 vscode-userdata:/home/hnp/.vscode-oss/extensions/extensions.json
+2023-02-28 11:06:11.394 [info] Successfully uninstalled extension from the profile ms-toolsai.jupyter-keymap@1.0.0 vscode-userdata:/home/hnp/.vscode-oss/extensions/extensions.json

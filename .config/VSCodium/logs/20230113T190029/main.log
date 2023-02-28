@@ -1,0 +1,4 @@
+2023-01-13 19:00:29.180 [info] update#setState idle
+2023-01-13 19:00:30.621 [info] Starting extension host with pid 40020 (fork() took 12 ms).
+2023-01-13 19:00:39.028 [info] Waiting for extension host with pid 40020 to exit.
+2023-01-13 19:00:39.032 [info] Extension host with pid 40020 exited with code: 0, signal: null.

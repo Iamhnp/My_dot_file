@@ -1,0 +1,6 @@
+2023/02/12-11:27:36.867 4e68 Creating DB /home/hnp/.config/google-chrome/Profile 1/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb since it was missing.
+2023/02/12-11:27:36.879 4e68 Reusing MANIFEST /home/hnp/.config/google-chrome/Profile 1/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/12-11:27:44.298 4e68 Level-0 table #5: started
+2023/02/12-11:27:44.301 4e68 Level-0 table #5: 3899 bytes OK
+2023/02/12-11:27:44.305 4e68 Delete type=0 #3
+2023/02/12-11:27:44.305 4e68 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

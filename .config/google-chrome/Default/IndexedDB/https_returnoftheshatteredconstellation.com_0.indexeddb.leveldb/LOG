@@ -1,0 +1,6 @@
+2023/02/05-12:56:52.703 bbfb Creating DB /home/hnp/.config/google-chrome/Default/IndexedDB/https_returnoftheshatteredconstellation.com_0.indexeddb.leveldb since it was missing.
+2023/02/05-12:56:52.710 bbfb Reusing MANIFEST /home/hnp/.config/google-chrome/Default/IndexedDB/https_returnoftheshatteredconstellation.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/05-12:58:14.178 bc6f Level-0 table #5: started
+2023/02/05-12:58:14.181 bc6f Level-0 table #5: 6153 bytes OK
+2023/02/05-12:58:14.185 bc6f Delete type=0 #3
+2023/02/05-12:58:14.185 bc6f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

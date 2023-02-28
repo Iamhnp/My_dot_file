@@ -1,0 +1,10 @@
+2023/02/12-13:57:56.257 87a Reusing MANIFEST /home/hnp/.config/google-chrome/Profile 1/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/12-13:57:56.257 87a Recovering log #11
+2023/02/12-13:57:56.321 87a Reusing old log /home/hnp/.config/google-chrome/Profile 1/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000011.log 
+2023/02/12-13:58:00.622 87a Level-0 table #16: started
+2023/02/12-13:58:00.654 87a Level-0 table #16: 1201633 bytes OK
+2023/02/12-13:58:00.685 87a Delete type=0 #11
+2023/02/12-13:58:00.992 87a Compacting 1@1 + 1@2 files
+2023/02/12-13:58:01.009 87a Generated table #17@1: 755 keys, 89558 bytes
+2023/02/12-13:58:01.009 87a Compacted 1@1 + 1@2 files => 89558 bytes
+2023/02/12-13:58:01.043 87a compacted to: files[ 0 0 1 0 0 0 0 ]

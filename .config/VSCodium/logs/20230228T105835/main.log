@@ -1,0 +1,7 @@
+2023-02-28 10:58:36.019 [info] update#setState idle
+2023-02-28 10:58:37.452 [info] Starting extension host with pid 7433 (fork() took 11 ms).
+2023-02-28 10:59:06.021 [info] update#setState checking for updates
+2023-02-28 10:59:06.564 [info] update#setState available for download
+2023-02-28 10:59:06.938 [info] Extension host with pid 7433 exited with code: 0, signal: null.
+2023-02-28 10:59:08.128 [info] Starting extension host with pid 7557 (fork() took 12 ms).
+2023-02-28 11:06:15.549 [info] Extension host with pid 7557 exited with code: 0, signal: null.

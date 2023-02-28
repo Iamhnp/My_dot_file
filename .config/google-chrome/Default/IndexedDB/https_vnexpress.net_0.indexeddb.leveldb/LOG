@@ -1,0 +1,7 @@
+2023/02/15-21:16:24.894 940 Reusing MANIFEST /home/hnp/.config/google-chrome/Default/IndexedDB/https_vnexpress.net_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/15-21:16:24.894 940 Recovering log #4
+2023/02/15-21:16:24.894 940 Reusing old log /home/hnp/.config/google-chrome/Default/IndexedDB/https_vnexpress.net_0.indexeddb.leveldb/000004.log 
+2023/02/15-21:16:25.166 94c Level-0 table #8: started
+2023/02/15-21:16:25.168 94c Level-0 table #8: 1495 bytes OK
+2023/02/15-21:16:25.172 94c Delete type=0 #4
+2023/02/15-21:16:25.172 94c Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

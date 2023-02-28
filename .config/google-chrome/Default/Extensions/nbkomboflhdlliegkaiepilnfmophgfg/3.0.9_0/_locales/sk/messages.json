@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Zmeniť ukazovateľ priebehu aplikácie Youtube™ na vlastné z zábavnej zbierky. Urobte svoj prehrávač Youtube™ úžasný!"
+   },
+   "name": {
+      "message": "Custom Progress Bar for YouTube™"
+   },
+   "short_name": {
+      "message": "Custom Progress Bar for YouTube™"
+   }
+}

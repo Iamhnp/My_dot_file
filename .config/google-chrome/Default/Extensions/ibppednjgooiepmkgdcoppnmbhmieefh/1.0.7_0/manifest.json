@@ -1,0 +1,33 @@
+{
+   "background": {
+      "scripts": [ "js/hot-reload.js", "js/common_utils/languages.js", "js/common_utils/database_utils.js", "js/config.js", "js/Utils.js", "js/core.js", "js/jquery.js", "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/128.png",
+      "default_popup": "popup.html",
+      "default_title": "Translator"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "css/content.css", "css/pageTranslation.css" ],
+      "exclude_matches": [ "*://translate.google.com/*" ],
+      "js": [ "js/jquery.js", "js/common_utils/translate_utils.js", "js/common_utils/audio_utils.js", "js/common_utils/languages.js", "js/content.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval' ;object-src 'self';",
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "images/128.png",
+      "48": "images/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAl5uxAg6vM3kaZLiIua+RMmkLT06TQ3ENu4k1U4TBBOzVLAi/jOEu1OFGqpWBny5lFkEF1YI4qfytMzDcF7ZhYY3mxXeCz1bPqGOUHj81EHCqRk8ruJx5TAcyhBG3ZBS9PYlHZ7yr8ISw+LqO/n74s0aD+wNn6g1ljVxC0ReJHOTVsQ2OQiQW3isxlU8YFbnWMM/WVknBxnxG9Q1MEOf9wmzBPxUVb5MXshKgLRLj0v74FZyiqa2P7jbu6zBNo40BG/z0h6NPUg5f+8mGI2tjz/6bZp4ljiG5WLFscPB7iHpf1VkEAXwGgm/0qsLSlGLKFL6/sbTkTm3EP9hYOy4CBwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "options_page": "settings.html",
+   "permissions": [ "contextMenus", "\u003Call_urls>", "storage", "tabs", "webRequest", "webRequestBlocking" ],
+   "short_name": "Translator",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.7",
+   "web_accessible_resources": [ "js/*", "images/*", "css/*" ]
+}

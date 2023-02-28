@@ -1,0 +1,16 @@
+2023-02-28 10:44:49.225 [info] Starting worker process with pid 3481 (type: fileWatcher, window: 1).
+2023-02-28 10:45:06.576 [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-02-28 10:45:06.577 [info] Worker process with pid 3481 terminated normally (type: fileWatcher, window: 1).
+2023-02-28 10:45:06.584 [info] Starting worker process with pid 3543 (type: fileWatcher, window: 1).
+2023-02-28 10:45:11.460 [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-02-28 10:45:11.460 [info] Worker process with pid 3543 terminated normally (type: fileWatcher, window: 1).
+2023-02-28 10:45:11.468 [info] Starting worker process with pid 3561 (type: fileWatcher, window: 1).
+2023-02-28 10:45:27.651 [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-02-28 10:45:27.653 [info] Worker process with pid 3561 terminated normally (type: fileWatcher, window: 1).
+2023-02-28 10:45:27.703 [info] Starting worker process with pid 3894 (type: fileWatcher, window: 1).
+2023-02-28 10:45:48.433 [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-02-28 10:45:48.439 [info] Worker process with pid 3894 terminated normally (type: fileWatcher, window: 1).
+2023-02-28 10:45:48.442 [info] Starting worker process with pid 3930 (type: fileWatcher, window: 1).
+2023-02-28 10:45:56.934 [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-02-28 10:45:56.940 [info] Worker process with pid 3930 terminated normally (type: fileWatcher, window: 1).
+2023-02-28 10:45:56.943 [info] Starting worker process with pid 3947 (type: fileWatcher, window: 1).

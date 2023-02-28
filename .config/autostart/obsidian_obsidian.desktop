@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-SnapInstanceName=obsidian
+Name=Obsidian
+Exec=env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/obsidian_obsidian.desktop /var/lib/snapd/snap/bin/obsidian %U
+Terminal=false
+Type=Application
+Icon=/var/lib/snapd/snap/obsidian/x1/meta/gui/icon.png
+StartupWMClass=obsidian
+Comment=Obsidian
+MimeType=x-scheme-handler/obsidian;
+Categories=Office;

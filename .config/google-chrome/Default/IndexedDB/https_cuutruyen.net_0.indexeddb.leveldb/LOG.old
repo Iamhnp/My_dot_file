@@ -1,0 +1,6 @@
+2023/02/05-17:00:28.949 1b6d Creating DB /home/hnp/.config/google-chrome/Default/IndexedDB/https_cuutruyen.net_0.indexeddb.leveldb since it was missing.
+2023/02/05-17:00:28.955 1b6d Reusing MANIFEST /home/hnp/.config/google-chrome/Default/IndexedDB/https_cuutruyen.net_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/05-17:00:36.456 1b70 Level-0 table #5: started
+2023/02/05-17:00:36.459 1b70 Level-0 table #5: 3197 bytes OK
+2023/02/05-17:00:36.463 1b70 Delete type=0 #3
+2023/02/05-17:00:36.463 1b70 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

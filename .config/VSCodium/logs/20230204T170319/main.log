@@ -1,0 +1,7 @@
+2023-02-04 17:03:19.867 [info] update#setState idle
+2023-02-04 17:03:21.342 [info] Starting extension host with pid 1824 (fork() took 14 ms).
+2023-02-04 17:03:49.869 [info] update#setState checking for updates
+2023-02-04 17:03:50.200 [info] update#setState available for download
+2023-02-04 17:04:44.286 [info] update#setState idle
+2023-02-04 17:05:36.463 [info] Waiting for extension host with pid 1824 to exit.
+2023-02-04 17:05:36.494 [info] Extension host with pid 1824 exited with code: 0, signal: null.

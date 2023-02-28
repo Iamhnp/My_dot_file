@@ -1,0 +1,6 @@
+2023/02/15-21:14:33.950 94d Creating DB /home/hnp/.config/google-chrome/Default/IndexedDB/https_vnexpress.net_0.indexeddb.leveldb since it was missing.
+2023/02/15-21:14:33.958 94d Reusing MANIFEST /home/hnp/.config/google-chrome/Default/IndexedDB/https_vnexpress.net_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/15-21:14:33.997 94c Level-0 table #5: started
+2023/02/15-21:14:34.000 94c Level-0 table #5: 706 bytes OK
+2023/02/15-21:14:34.008 94c Delete type=0 #3
+2023/02/15-21:14:34.009 967 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,11 @@
+2023-01-13 06:37:43.795 [info] update#setState idle
+2023-01-13 06:37:44.994 [info] Starting extension host with pid 17840 (fork() took 11 ms).
+2023-01-13 06:38:13.800 [info] update#setState checking for updates
+2023-01-13 06:38:14.263 [info] update#setState idle
+2023-01-13 06:38:27.000 [warning] Sending IPC message to channel 'vscode:reportError' for window that is destroyed
+2023-01-13 06:38:27.000 [error] [uncaught exception in main]: TypeError: Object has been destroyed
+2023-01-13 06:38:27.000 [error] TypeError: Object has been destroyed
+    at b.send (node:electron/js2c/browser_init:161:2484)
+    at Function.callback (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:16:57364)
+2023-01-13 06:38:27.009 [info] Waiting for extension host with pid 17840 to exit.
+2023-01-13 06:38:27.014 [info] Extension host with pid 17840 exited with code: 0, signal: null.
